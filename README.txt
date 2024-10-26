@@ -11,4 +11,4 @@ corrs.py should also show the U.S. states with the highest and lowest average ap
 datacleaning.py is a program that was written and run in order to clean the data from the original apartments.csv file to remove extraneous data and missing values
 this program uses the pandas package, and creates a new csv file of the cleaned data
 
-The other files are the original apartments.csv file and the csv file with cleaned data called apartmentsclean.csv
+The other files are the original apartments.csv(this file ended up being too large to upload to github, but the link to the file in google drive will be added in the report) file and the csv file with cleaned data called apartmentsclean.csv
